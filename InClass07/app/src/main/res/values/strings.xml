@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">InClass07</string>
+    <string name="et_search">song</string>
+    <string name="tv_limit">Limit: 5</string>
+    <string name="btn_search">Search</string>
+    <string name="tv_sortText">Sort By:</string>
+    <string name="radio_track">Track rating</string>
+    <string name="radio_artist">Artist rating</string>
+    <string name="tv_result">Search results</string>
+    <string name="song_date" />
+    <string name="artist_name" />
+    <string name="track_name" />
+    <string name="album_name" />
+</resources>
